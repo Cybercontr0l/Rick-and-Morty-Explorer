@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>{ (&lt;#parameters#&gt;) -&gt; &lt;#return type#&gt; in
+    &lt;#statements#&gt;
+}</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>&lt;key&gt;UIAppFonts&lt;/key&gt; &lt;array&gt; &lt;string&gt;Inter-Bold.ttf&lt;/string&gt; &lt;/array&gt;</string>
+		<string>&lt;key&gt;UIAppFonts&lt;/key&gt; &lt;array&gt; &lt;string&gt;Inter-Regular.ttf&lt;/string&gt; &lt;/array&gt;</string>
+	</array>
+	<key>UIApplicationSceneManifest</key>
+	<dict>
+		<key>UIApplicationSupportsMultipleScenes</key>
+		<false/>
+	</dict>
+	<key>UISceneConfigurations</key>
+	<dict>
+		<key>UIWindowSceneSessionRoleApplication</key>
+		<array>
+			<dict>
+				<key>UISceneDelegateClassName</key>
+				<string>$(PRODUCT_MODULE_NAME).SceneDelegate</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>
